@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "tempalte_project",
   "author": "Damir_Khalimov",
-  "repository": "https://github.com/UnclaimedWorld/template-project-nunjucks",
+  "repository": "https://github.com/sarvar/template-nunjucks.git",
   "license": "ISC",
   "scripts": {
     "build": "gulp build",

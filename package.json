@@ -2,7 +2,7 @@
   "name": "template_project",
   "version": "1.0.0",
   "description": "tempalte_project",
-  "author": "Damir_Khalimov",
+  "author": "Sarvar Ergashev",
   "repository": "https://github.com/sarvar/template-nunjucks.git",
   "license": "ISC",
   "scripts": {
